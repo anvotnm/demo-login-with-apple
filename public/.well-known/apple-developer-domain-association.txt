@@ -1,0 +1,8 @@
+Paste the content from Apple Developer Console here to verify your domain.
+1. Go to Certificates, Identifiers & Profiles > Identifiers > Service IDs.
+2. Select your Service ID.
+3. Click Configure next to Sign in with Apple.
+4. Click Define next to Website URLs (or Edit).
+5. Add your domain: cwm9b970-3000.asse.devtunnels.ms
+6. Download the verification file.
+7. Paste the content of that file here.
